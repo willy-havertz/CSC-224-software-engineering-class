@@ -1,0 +1,1 @@
+This is just an example of the text file you may add other files to the repo eg HTML,CSS and javascript files
