@@ -19,7 +19,7 @@ A simple calculator application that performs basic arithmetic operations such a
 
 To run the calculator on your local machine:
 1. Clone the repository:
-   git clone https://github.com/yourusername/CSC-224-software-engineering-class.git
+   git clone ``https://github.com/yourusername/CSC-224-software-engineering-class.git``
    
 2. Navigate to the project directory:
 3. 
