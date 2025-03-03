@@ -7,13 +7,13 @@ A simple calculator application that performs basic arithmetic operations such a
 
 - Addition, subtraction, multiplication, and division
 - Input validation to handle edge cases
-- Responsive design (optional, if web-based)
-- User-friendly interface (command line or GUI)
+- Responsive design
+- User-friendly interface
 
 ## Technologies Used
 
-- Frontend: HTML, CSS, JavaScript (for web-based calculator)
-- Platform: Works on any platform with a web browser (for web-based version)
+- Frontend: HTML, CSS, JavaScript
+- Platform: Works on any platform with a web browser
 
 ## Installation
 
